@@ -5,5 +5,5 @@
 
 ![grid layput](layout_grid.png)
 
-![grid layput + predefined cluster centers. NOT CORRECT YET](llaypout_grid_predefined.png)
+![grid layput + predefined cluster centers. NOT CORRECT YET](laypout_grid_predefined.png)
 
